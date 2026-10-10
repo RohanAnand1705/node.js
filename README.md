@@ -4,4 +4,4 @@ Created REST-Style APIs
 
 Implemented CRUD Operations
 
-Implemented Midlleware
+Implemented Middleware
